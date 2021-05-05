@@ -1,5 +1,6 @@
 # EdgeCornerDetection
 
+* see project.ipynb for full code
 * See Report for Results 
 #### Separable Convolution:
 refers to breaking down a convolution kernel into lower dimension kernels. In this case a 2D Gaussian kernel is seperated into two 1D kernels. 
